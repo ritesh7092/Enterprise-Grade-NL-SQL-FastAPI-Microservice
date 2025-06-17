@@ -343,7 +343,7 @@ if __name__ == "__main__":
         "main:app",
         host="0.0.0.0",
         port=8000,
-        reload=False,  # Disable reload in production to save memory
+        reload=False,
         log_level="info",
-        workers=1  # Single worker to minimize memory usage
+        workers=1
     )
