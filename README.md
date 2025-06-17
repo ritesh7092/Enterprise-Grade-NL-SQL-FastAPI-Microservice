@@ -119,6 +119,13 @@ OLLAMA_MODEL=gemma:2b-instruct
 4. Push (`git push origin feature/xyz`)
 5. Open a Pull Request
 
-## 📄 License
+
+## Author
+
+**Ritesh Raj Tiwari**  
+GitHub: https://github.com/ritesh7092  
+LinkedIn: https://www.linkedin.com/in/riteshrajtiwari/  
+
+## License
 
 [MIT](LICENSE)
